@@ -20,4 +20,5 @@ if __name__ == '__main__':
     print_hi("not ")
     print_hi("again ")
     print_hi("very nice ")
+    print_hi("scond local commit  ")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
