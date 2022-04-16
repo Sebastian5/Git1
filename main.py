@@ -13,5 +13,8 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('failed again???')
+    print_hi('anothert line')
+    print_hi('anothert line2')
+    print_hi('anothert line3')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
